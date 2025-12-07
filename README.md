@@ -29,3 +29,9 @@ src/
 ├── Owner.java        # Independent class linked to Vehicle
 ├── Insurance.java    # Independent class linked to Vehicle
 └── GuiApp.java       # Main entry point & GUI Logic
+
+---
+
+## 🔗 Author
+* **Name:** Omar Ibrahim Al-Ali
+* **Date:** 2025-01-19

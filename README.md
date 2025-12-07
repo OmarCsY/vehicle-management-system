@@ -21,6 +21,7 @@ This project goes beyond basic coding by implementing advanced OOP concepts:
 * **Encapsulation:** All fields are private with proper Getters/Setters to protect data state.
 
 ## 📂 Project Structure
+سسf
 ```text
 src/
 ├── Car.java          # Child class with specific attributes (Electric, Seats)
@@ -29,6 +30,7 @@ src/
 ├── Owner.java        # Independent class linked to Vehicle
 ├── Insurance.java    # Independent class linked to Vehicle
 └── GuiApp.java       # Main entry point & GUI Logic
+```
 ```
 ---
 

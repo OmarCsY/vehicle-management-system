@@ -29,7 +29,7 @@ src/
 ├── Owner.java        # Independent class linked to Vehicle
 ├── Insurance.java    # Independent class linked to Vehicle
 └── GuiApp.java       # Main entry point & GUI Logic
-
+```
 ---
 
 ## 🔗 Author
